@@ -47,8 +47,8 @@ A robust, long-range remote-controlled robot developed for the Annual University
 4.  Assemble the separate remote control unit with its own Arduino and nRF transceiver for sending commands.
 
 ### 2. Firmware
-1.  Upload the `receiver_code.ino` file to the Arduino on the robot.
-2.  Upload the `transmitter_code.ino` file to the Arduino on the remote control.
+1.  Upload the `RX_Code.ino` file to the Arduino on the robot.
+2.  Upload the `TX_Code.ino` file to the Arduino on the remote control.
 3.  Ensure both transceivers are set to the same channel for communication.
 
 ### 3. Operation
